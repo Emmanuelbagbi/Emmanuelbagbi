@@ -12,6 +12,6 @@ I'm a passionate developer with a love for coding, gaming, and entertainment. My
   - Software Engineer at TechCorp
   - Contributor to OpenAI GPT-3
 - 🌐 **Website**: [Emmy.dev](www.linkedin.com/in/emmanuel-bagbi-650233306)
-- 📫 **Contact**: [john.doe@example.com](mailto:Emmanuelbagbi4@gmail.com)
+- 📫 **Contact**: [Emmnanuelbagbi@gmail.com](mailto:Emmanuelbagbi4@gmail.com)
 
 Let's connect and build something amazing together!
