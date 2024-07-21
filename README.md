@@ -6,7 +6,27 @@ I'm a passionate developer with a love for coding, gaming, and entertainment. My
 skills in programming to build innovative solutions and contribute to exciting projects.
 
 💻 **Languages & Technologies**:
-   [Python](https://www.python.org/) [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [Java](https://www.oracle.com/java/), https://www.typescriptlang.org/
+   <p align="center">
+  <img src="URL_TO_JAVA_ICON" alt="Java" width="40" height="40"/>
+  <img src="URL_TO_JS_ICON" alt="JavaScript" width="40" height="40"/>
+  <img src="URL_TO_PHP_ICON" alt="PHP" width="40" height="40"/>
+  <img src="URL_TO_PYTHON_ICON" alt="Python" width="40" height="40"/>
+  <img src="URL_TO_TS_ICON" alt="TypeScript" width="40" height="40"/>
+  <img src="URL_TO_HTML_ICON" alt="HTML5" width="40" height="40"/>
+  <img src="URL_TO_REACT_ICON" alt="React" width="40" height="40"/>
+  <img src="URL_TO_CSS_ICON" alt="CSS3" width="40" height="40"/>
+  <img src="URL_TO_BOOTSTRAP_ICON" alt="Bootstrap" width="40" height="40"/>
+  <img src="URL_TO_NODEJS_ICON" alt="Node.js" width="40" height="40"/>
+  <img src="URL_TO_EXPRESS_ICON" alt="Express" width="40" height="40"/>
+  <img src="URL_TO_ORACLE_ICON" alt="Oracle" width="40" height="40"/>
+  <img src="URL_TO_MONGODB_ICON" alt="MongoDB" width="40" height="40"/>
+  <img src="URL_TO_MYSQL_ICON" alt="MySQL" width="40" height="40"/>
+  <img src="URL_TO_POSTGRESQL_ICON" alt="PostgreSQL" width="40" height="40"/>
+  <img src="URL_TO_FIREBASE_ICON" alt="Firebase" width="40" height="40"/>
+  <img src="URL_TO_HEROKU_ICON" alt="Heroku" width="40" height="40"/>
+  <img src="URL_TO_DJANGO_ICON" alt="Django" width="40" height="40"/>
+  <img src="URL_TO_PS_ICON" alt="Photoshop" width="40" height="40"/>
+</p>
   - React, Node.js, Django, Spring Boot
   - SQL, NoSQL, Docker, Kubernetes
     
