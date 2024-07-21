@@ -1,4 +1,6 @@
-# Hi there 👋, I'm EMMANUEL BAGBI
+## Hi there 👋, I'm EMMANUEL BAGBI
+
+##Software Engineer
 
 I'm a passionate developer with a love for coding, gaming, and entertainment. My goal is to leverage my skills in programming to build innovative solutions and contribute to exciting projects.
 
