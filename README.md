@@ -6,7 +6,7 @@ I'm a passionate developer with a love for coding, gaming, and entertainment. My
 skills in programming to build innovative solutions and contribute to exciting projects.
 
 💻 **Languages & Technologies**:
-   [Python](https://www.python.org/), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [Java](https://www.oracle.com/java/), https://www.typescriptlang.org/
+   [Python](https://www.python.org/) [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [Java](https://www.oracle.com/java/), https://www.typescriptlang.org/
   - React, Node.js, Django, Spring Boot
   - SQL, NoSQL, Docker, Kubernetes
     
