@@ -11,7 +11,7 @@ skills in programming to build innovative solutions and contribute to exciting p
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="40"height="40"/>
   <img src="https://icon2.cleanpng.com/20180516/ee/kisspng-php-computer-icons-web-development-logo-icon-5afcf35ed42810.464267801526526814869.jpg" alt="PHP" width="40" height="40"/>
   <img src="https://banner2.cleanpng.com/20190124/rs/kisspng-python-selenium-programming-language-computer-icon-pip-5c4a4a7ca92d33.171618491548372604693.jpg" alt="Python" width="40" height="40"/>
-  <img src="URL_TO_TS_ICON" alt="TypeScript" width="40" height="40"/>
+  <img src="https://www.freepik.com/icon/typescript_5968381" alt="TypeScript" width="40" height="40"/>
   <img src="URL_TO_HTML_ICON" alt="HTML5" width="40" height="40"/>
   <img src="URL_TO_REACT_ICON" alt="React" width="40" height="40"/>
   <img src="URL_TO_CSS_ICON" alt="CSS3" width="40" height="40"/>
