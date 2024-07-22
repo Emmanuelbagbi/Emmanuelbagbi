@@ -9,7 +9,7 @@ skills in programming to build innovative solutions and contribute to exciting p
    <p align="center">
   <img src="https://toppng.com/uploads/preview/java-logo-11609365784e4gmvr3iyr.png" alt="Java" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="40"height="40"/>
-  <img src="[URL_TO_PHP_ICON](https://p7.hiclipart.com/preview/225/921/230/web-development-php-computer-icons-php-logo-thumbnail.jpg)" alt="PHP" width="40" height="40"/>
+  <img src="https://p7.hiclipart.com/preview/225/921/230/web-development-php-computer-icons-php-logo-thumbnail.jpg" alt="PHP" width="40" height="40"/>
   <img src="URL_TO_PYTHON_ICON" alt="Python" width="40" height="40"/>
   <img src="URL_TO_TS_ICON" alt="TypeScript" width="40" height="40"/>
   <img src="URL_TO_HTML_ICON" alt="HTML5" width="40" height="40"/>
