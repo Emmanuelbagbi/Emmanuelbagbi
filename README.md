@@ -10,7 +10,7 @@ skills in programming to build innovative solutions and contribute to exciting p
   <img src="https://toppng.com/uploads/preview/java-logo-11609365784e4gmvr3iyr.png" alt="Java" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="40"height="40"/>
   <img src="https://icon2.cleanpng.com/20180516/ee/kisspng-php-computer-icons-web-development-logo-icon-5afcf35ed42810.464267801526526814869.jpg" alt="PHP" width="40" height="40"/>
-  <img src="https://banner2.cleanpng.com/20180811/pul/kisspng-python-general-purpose-programming-language-comput-python-programming-language-symphony-solution-5b6ee0c863a5a1.6306397415339931604082.jpg" alt="Python" width="40" height="40"/>
+  <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/python-icon.png" alt="Python" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/768px-Typescript_logo_2020.svg.png" alt="TypeScript" width="40" height="40"/>
   <img src="https://icons.iconarchive.com/icons/martz90/hex/256/html-5-icon.png" alt="HTML5" width="40" height="40"/>
   <img src="https://www.vectorstock.com/royalty-free-vector/react-icon-in-a-hexagon-vector-36587857" alt="React" width="40" height="40"/>
