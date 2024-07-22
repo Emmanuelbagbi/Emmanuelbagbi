@@ -7,7 +7,7 @@ skills in programming to build innovative solutions and contribute to exciting p
 
 💻 **Languages & Technologies**:
    <p align="center">
-  <img src="[https://banner2.cleanpng.com/20181126/zpf/kisspng-java-scalable-vector-graphics-computer-software-lo-reveal-js-the-html-presentation-framework-5bfb8a6be76274.8225297015432116279478.jpg](https://toppng.com/uploads/preview/java-logo-11609365784e4gmvr3iyr.png)" alt="Java" width="40" height="40"/>
+  <img src="https://toppng.com/uploads/preview/java-logo-11609365784e4gmvr3iyr.png" alt="Java" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="40"height="40"/>
   <img src="URL_TO_PHP_ICON" alt="PHP" width="40" height="40"/>
   <img src="URL_TO_PYTHON_ICON" alt="Python" width="40" height="40"/>
