@@ -7,7 +7,7 @@ skills in programming to build innovative solutions and contribute to exciting p
 
 💻 **Languages & Technologies**:
    <p align="center">
-  <img src="https://toppng.com/uploads/preview/java-logo-11609365784e4gmvr3iyr.png" alt="Java" width="40" height="40"/>
+  <img src="https://icons.iconarchive.com/icons/tatice/cristal-intense/256/Java-icon.png" alt="Java" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="40"height="40"/>
   <img src="https://icon2.cleanpng.com/20180516/ee/kisspng-php-computer-icons-web-development-logo-icon-5afcf35ed42810.464267801526526814869.jpg" alt="PHP" width="40" height="40"/>
   <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/python-icon.png" alt="Python" width="40" height="40"/>
