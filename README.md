@@ -14,7 +14,7 @@ skills in programming to build innovative solutions and contribute to exciting p
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/768px-Typescript_logo_2020.svg.png" alt="TypeScript" width="40" height="40"/>
   <img src="https://icons.iconarchive.com/icons/martz90/hex/256/html-5-icon.png" alt="HTML5" width="40" height="40"/>
   <img src="https://banner2.cleanpng.com/20180518/ptw/kisspng-react-logo-javascript-front-and-back-ends-user-int-5afef575942028.3034008315266584216067.jpg" alt="React" width="40" height="40"/>
-  <img src="URL_TO_CSS_ICON" alt="CSS3" width="40" height="40"/>
+  <img src="https://icons.iconarchive.com/icons/martz90/hex/256/css-3-icon.png" alt="CSS3" width="40" height="40"/>
   <img src="URL_TO_BOOTSTRAP_ICON" alt="Bootstrap" width="40" height="40"/>
   <img src="URL_TO_NODEJS_ICON" alt="Node.js" width="40" height="40"/>
   <img src="URL_TO_EXPRESS_ICON" alt="Express" width="40" height="40"/>
