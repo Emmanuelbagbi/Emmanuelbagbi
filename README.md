@@ -7,7 +7,7 @@ skills in programming to build innovative solutions and contribute to exciting p
 
 💻 **Languages & Technologies**:
    <p align="center">
-  <img src="[[image](https://github.com/user-attachments/assets/611fa1f4-310a-4cfc-a4f6-8af260ad5df5)](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)" alt="Java" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="Java" width="40" height="40"/>
   <img src="
 " alt="JavaScript"/>
   <img src="URL_TO_PHP_ICON" alt="PHP" width="40" height="40"/>
