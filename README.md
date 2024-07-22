@@ -13,7 +13,7 @@ skills in programming to build innovative solutions and contribute to exciting p
   <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/python-icon.png" alt="Python" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/768px-Typescript_logo_2020.svg.png" alt="TypeScript" width="40" height="40"/>
   <img src="https://icons.iconarchive.com/icons/martz90/hex/256/html-5-icon.png" alt="HTML5" width="40" height="40"/>
-  <img src="https://icons.iconarchive.com/icons/pictogrammers/material/96/react-icon.png" alt="React" width="40" height="40"/>
+  <img src="https://icons.iconarchive.com/icons/pictogrammers/material/256/react-icon.png" alt="React" width="40" height="40"/>
   <img src="URL_TO_CSS_ICON" alt="CSS3" width="40" height="40"/>
   <img src="URL_TO_BOOTSTRAP_ICON" alt="Bootstrap" width="40" height="40"/>
   <img src="URL_TO_NODEJS_ICON" alt="Node.js" width="40" height="40"/>
