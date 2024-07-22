@@ -8,8 +8,7 @@ skills in programming to build innovative solutions and contribute to exciting p
 💻 **Languages & Technologies**:
    <p align="center">
   <img src="" alt="Java" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png
-" alt="JavaScript" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="40"height="40"/>
   <img src="URL_TO_PHP_ICON" alt="PHP" width="40" height="40"/>
   <img src="URL_TO_PYTHON_ICON" alt="Python" width="40" height="40"/>
   <img src="URL_TO_TS_ICON" alt="TypeScript" width="40" height="40"/>
