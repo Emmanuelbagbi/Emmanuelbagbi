@@ -6,7 +6,7 @@ I'm a passionate developer with a love for coding, gaming, and entertainment. My
 skills in programming to build innovative solutions and contribute to exciting projects.
 
 💻 **Languages & Technologies**:
-   <p>
+   <p display="flex"gap="3%">
   <img src="https://icons.iconarchive.com/icons/tatice/cristal-intense/256/Java-icon.png" alt="Java" width="40" height="40"/>
   <img src="https://logosdownload.com/logo/javascript-logo-big.png" alt="JavaScript" width="40"height="40"/>
   <img src="https://pngimg.com/uploads/php/php_PNG18.png" alt="PHP" width="40" height="40"/>
@@ -34,8 +34,6 @@ skills in programming to build innovative solutions and contribute to exciting p
 <img src="https://dwglogo.com/wp-content/uploads/2017/12/MongoDB_logo_01.png" alt="Photoshop" width="40" height="40"/>
 <img src="https://flexdash.github.io/docs/developing-widgets/vue-logo.png" alt="Photoshop" width="40" height="40"/>
 </p>
-  - React, Node.js, Django, Spring Boot
-  - SQL, NoSQL, Docker, Kubernetes
     
 - 🌱 **Currently Learning**:
   - Machine Learning,
