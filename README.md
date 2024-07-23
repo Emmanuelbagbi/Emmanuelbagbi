@@ -32,6 +32,13 @@ skills in programming to build innovative solutions and contribute to exciting p
 <img src="https://reddig.consulting/spring-boot.png" alt="Photoshop" width="40" height="40"/>
 <img src="https://logodix.com/logo/1960605.png" alt="Photoshop" width="40" height="40"/>
 </p>
+
+🤝 ##Let's Connect:
+   <p>
+        <img src="https://logodix.com/logo/2083148.png" alt="Photoshop" width="40" height="40"/> 
+         <img src="https://image.similarpng.com/very-thumbnail/2020/07/Linkedin-logo-on-transparent-Background-PNG-.png" alt="Photoshop" width="40" height="40"/>
+         <img src="https://logodix.com/logo/2083148.png" alt="Photoshop" width="40" height="40"/>
+   </p>
     
 - 🌱 Currently Learning:
   - WebAssembly,
@@ -54,11 +61,6 @@ skills in programming to build innovative solutions and contribute to exciting p
   </p>
 - 🌐 Website: [Emmy.dev](www.linkedin.com/in/emmanuel-bagbi-650233306)
 - 📫 Contact: [Emmnanuelbagbi@gmail.com](mailto:Emmanuelbagbi4@gmail.com)
-
-🤝 Let's Connect:
-   <p>
-         
-   </p>
 
 ---
 
