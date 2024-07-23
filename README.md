@@ -33,16 +33,16 @@ skills in programming to build innovative solutions and contribute to exciting p
 <img src="https://logodix.com/logo/1960605.png" alt="Photoshop" width="40" height="40"/>
 </p>
     
-- 🌱 **Currently Learning**:
-  - Machine Learning,
-  - Blockchain Development.
+- 🌱 *Currently Learning*:
+  - WebAssembly,
+  - Next.js.
 
-- 🎮 **Interests**:
-    - Game Development,
+- 🎮 *Interests*:
+    - Web Development,
     - Open Source,
-    - Cloud Computing
+    - Game Development.
   
-- 💼 **Experience**: 
+- 💼 *Experience*: 
   - Software Engineer at TechCorp
   - Contributor to OpenAI GPT-3
     
