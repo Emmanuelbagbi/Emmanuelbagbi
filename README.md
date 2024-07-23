@@ -55,11 +55,11 @@ skills in programming to build innovative solutions and contribute to exciting p
 - 🌐 Website: [Emmy.dev](www.linkedin.com/in/emmanuel-bagbi-650233306)
 - 📫 ##Contact##: [Emmnanuelbagbi@gmail.com](mailto:Emmanuelbagbi4@gmail.com)
 
-🤝 **Let's Connect:**
+🤝 Let's Connect:
 - [Your Twitter](www.linkedin.com/in/emmanuel-bagbi-650233306)
 - [Your Blog](your-blog-url)
 
 ---
 
-Code is like humor. When you have to explain it, it’s bad. - Cory House
+##Code is like humor. When you have to explain it, it’s bad. - Cory House##
 Let's connect and build something amazing together!
