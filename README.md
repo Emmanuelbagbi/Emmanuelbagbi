@@ -48,7 +48,7 @@ skills in programming to build innovative solutions and contribute to exciting p
   
 - Version Control:
   <p>
-     <img src="https://mizagbf.github.io/GBFAL/assets/ui/icon/github.png" alt="Photoshop" width="40" height="40"/>
+     <img src="https://www.yjpoo.com/uploads/allimg/20231119/1-2311191T2142Z.webp" alt="Photoshop" width="40" height="40"/>
   </p>
    - Git, GitHub, GitLab
 
