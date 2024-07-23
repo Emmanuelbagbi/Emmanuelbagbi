@@ -30,7 +30,7 @@ skills in programming to build innovative solutions and contribute to exciting p
    <img src="https://bourhaouta.gallerycdn.vsassets.io/extensions/bourhaouta/tailwindshades/0.0.5/1592520164095/Microsoft.VisualStudio.Services.Icons.Default" alt="Photoshop" width="40" height="40"/>
 <img src="https://seeklogo.com/images/M/material-ui-logo-5BDCB9BA8F-seeklogo.com.png" alt="Photoshop" width="40" height="40"/>
 <img src="https://reddig.consulting/spring-boot.png" alt="Photoshop" width="40" height="40"/>
-<img src="https://thumbnail.imgbin.com/16/5/0/imgbin-oracle-corporation-oracle-database-oracle-warehouse-builder-computer-software-logo-ibm-db2-logo-MxL33UKYf0pkAQypUNJNVrQcz_t.jpg" alt="Photoshop" width="40" height="40"/>
+<img src="https://thumbnail.imgbin.com/2/7/8/imgbin-oracle-corporation-logo-business-partner-brand-trademark-fly-emirates-3CDwHB8bjxn6RspieQHPNkVGy_t.jpg" alt="Photoshop" width="40" height="40"/>
 <img src="https://flexdash.github.io/docs/developing-widgets/vue-logo.png" alt="Photoshop" width="40" height="40"/>
 <img src="https://flexdash.github.io/docs/developing-widgets/vue-logo.png" alt="Photoshop" width="40" height="40"/>
 </p>
