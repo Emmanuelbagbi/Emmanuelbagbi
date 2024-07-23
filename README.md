@@ -53,11 +53,12 @@ skills in programming to build innovative solutions and contribute to exciting p
       <img src="https://seeklogo.com/images/G/gitlab-logo-FAA48EFD02-seeklogo.com.png" alt="Photoshop" width="40" height="40"/>
   </p>
 - 🌐 Website: [Emmy.dev](www.linkedin.com/in/emmanuel-bagbi-650233306)
-- 📫 ##Contact##: [Emmnanuelbagbi@gmail.com](mailto:Emmanuelbagbi4@gmail.com)
+- 📫 Contact: [Emmnanuelbagbi@gmail.com](mailto:Emmanuelbagbi4@gmail.com)
 
 🤝 Let's Connect:
-- [Your Twitter](www.linkedin.com/in/emmanuel-bagbi-650233306)
-- [Your Blog](your-blog-url)
+   <p>
+         
+   </p>
 
 ---
 
