@@ -48,7 +48,7 @@ skills in programming to build innovative solutions and contribute to exciting p
   
 - Version Control:
   <p>
-     <img src="https://aleksandrs.info/assets/github-logo-a1orZNxr.jpg" alt="Photoshop" width="40" height="40"/>
+     <img src="https://logodix.com/logo/2083148.png" alt="Photoshop" width="40" height="40"/>
   </p>
    - Git, GitHub, GitLab
 
