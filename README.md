@@ -28,6 +28,9 @@ skills in programming to build innovative solutions and contribute to exciting p
   <img src="https://flexdash.github.io/docs/developing-widgets/vue-logo.png" alt="Photoshop" width="40" height="40"/>
    <img src="https://th.bing.com/th/id/R.5ad02c6a761fcadf0ec392b9fed1ef0f?rik=Dwv9grzztYGjGA&pid=ImgRaw&r=0" alt="Photoshop" width="40" height="40"/>
    <img src="https://bourhaouta.gallerycdn.vsassets.io/extensions/bourhaouta/tailwindshades/0.0.5/1592520164095/Microsoft.VisualStudio.Services.Icons.Default" alt="Photoshop" width="40" height="40"/>
+<img src="https://seeklogo.com/images/M/material-ui-logo-5BDCB9BA8F-seeklogo.com.png" alt="Photoshop" width="40" height="40"/>
+<img src="https://flexdash.github.io/docs/developing-widgets/vue-logo.png" alt="Photoshop" width="40" height="40"/>
+<img src="https://flexdash.github.io/docs/developing-widgets/vue-logo.png" alt="Photoshop" width="40" height="40"/>
 </p>
   - React, Node.js, Django, Spring Boot
   - SQL, NoSQL, Docker, Kubernetes
