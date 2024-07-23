@@ -19,7 +19,7 @@ skills in programming to build innovative solutions and contribute to exciting p
   <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="Node.js" width="40" height="40"/>
   <img src="https://icon-library.com/images/express-icon/express-icon-16.jpg" alt="Express" width="40" height="40"/>
   <img src="https://www.pngmart.com/files/23/Oracle-Logo-PNG-Image.png" alt="Oracle" width="40" height="40"/>
-  <img src="https://th.bing.com/th/id/OIP.6BUDiVe2QZSSdripMBSP8wAAAA?w=256&h=256&rs=1&pid=ImgDetMain" alt="MongoDB" width="40" height="40"/>
+  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_logo_icon_146424.png" alt="MongoDB" width="40" height="40"/>
   <img src="https://pngimg.com/uploads/mysql/mysql_PNG23.png" alt="MySQL" width="40" height="40"/>
   <img src="https://th.bing.com/th/id/R.2662d7a0e96d8bdca83b53586643977e?rik=9twXGUva9h2Y2w&pid=ImgRaw&r=0" alt="PostgreSQL" width="40" height="40"/>
   <img src="https://th.bing.com/th/id/R.c521e7e67222276a6860665a46813cc6?rik=AoUIOAvVTiB1cQ&riu=http%3a%2f%2fpluspng.com%2fimg-png%2ffirebase-logo-png-firebase-logo-png-transparent-amp-svg-vector-pluspng-2400x3291.png&ehk=YpYeUgKU5BtUZmTIpsZiQ5pFGAOc5w0Xm5klm2orTIg%3d&risl=&pid=ImgRaw&r=0" alt="Firebase" width="40" height="40"/>
