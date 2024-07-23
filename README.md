@@ -26,6 +26,8 @@ skills in programming to build innovative solutions and contribute to exciting p
   <img src="https://brandslogos.com/wp-content/uploads/images/large/angular-icon-logo.png" alt="Heroku" width="40" height="40"/>
   <img src="https://th.bing.com/th/id/R.fb73ba1b0bb03b3de706ff788395f453?rik=zi5WLd0kipiefA&pid=ImgRaw&r=0" alt="Django" width="40" height="40"/>
   <img src="https://flexdash.github.io/docs/developing-widgets/vue-logo.png" alt="Photoshop" width="40" height="40"/>
+   <img src="https://th.bing.com/th/id/R.5ad02c6a761fcadf0ec392b9fed1ef0f?rik=Dwv9grzztYGjGA&pid=ImgRaw&r=0" alt="Photoshop" width="40" height="40"/>
+   <img src="https://flexdash.github.io/docs/developing-widgets/vue-logo.png" alt="Photoshop" width="40" height="40"/>
 </p>
   - React, Node.js, Django, Spring Boot
   - SQL, NoSQL, Docker, Kubernetes
