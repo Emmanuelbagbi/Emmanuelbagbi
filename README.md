@@ -8,7 +8,7 @@ skills in programming to build innovative solutions and contribute to exciting p
 💻 **Languages & Technologies**:
    <p align="center">
   <img src="https://icons.iconarchive.com/icons/tatice/cristal-intense/256/Java-icon.png" alt="Java" width="40" height="40"/>
-  <img src="https://banner2.cleanpng.com/20180605/yjb/kisspng-javascript-programmer-node-js-web-application-vector-markup-language-5b173fc1d0a463.9294246915282503058546.jpg" alt="JavaScript" width="40"height="40"/>
+  <img src="https://logosdownload.com/logo/javascript-logo-big.png" alt="JavaScript" width="40"height="40"/>
   <img src="https://icons.iconarchive.com/icons/graphics-vibe/developer/256/php-icon.png" alt="PHP" width="40" height="40"/>
   <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/python-icon.png" alt="Python" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/768px-Typescript_logo_2020.svg.png" alt="TypeScript" width="40" height="40"/>
