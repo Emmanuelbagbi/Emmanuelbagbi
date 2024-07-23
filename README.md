@@ -5,7 +5,7 @@
 I'm a passionate developer with a love for coding, gaming, and entertainment. My goal is to leverage my 
 skills in programming to build innovative solutions and contribute to exciting projects.
 
-💻 ##Languages & Technologies##:
+💻 Languages & Technologies:
    <p display="flex"gap="3%">
   <img src="https://icons.iconarchive.com/icons/tatice/cristal-intense/256/Java-icon.png" alt="Java" width="40" height="40"/>
   <img src="https://logosdownload.com/logo/javascript-logo-big.png" alt="JavaScript" width="40"height="40"/>
@@ -33,17 +33,17 @@ skills in programming to build innovative solutions and contribute to exciting p
 <img src="https://logodix.com/logo/1960605.png" alt="Photoshop" width="40" height="40"/>
 </p>
 
+🤝 Let's Connect:
+   <p>
+        <img src="https://logodix.com/logo/2083148.png" alt="Photoshop" width="37" height="37"/> 
+         <img src="https://th.bing.com/th/id/R.e8815a5f01e73f24f0be40096dcc5b1f?rik=0EQRVNLi2I2mWQ&riu=http%3a%2f%2fgetdrawings.com%2ffree-icon%2fjarvis-icon-pack-62.png&ehk=%2bgNVpZKqlUz4qfaqkz5%2blJconO7a4U%2bU%2ffMVpsI2quM%3d&risl=&pid=ImgRaw&r=0" alt="Photoshop" width="37" height="37"/>
+         <img src="https://th.bing.com/th/id/OIP.MtFSyZgNAuhdv5L8tgVhKwAAAA?w=100&h=100&rs=1&pid=ImgDetMain" alt="Photoshop" width="37" height="37"/>
+   </p>
+
 
 - 🌱 Currently Learning:
   - WebAssembly,
   - Next.js.
-
-🤝 Let's Connect:
-   <p>
-        <img src="https://logodix.com/logo/2083148.png" alt="Photoshop" width="40" height="40"/> 
-         <img src="https://th.bing.com/th/id/R.e8815a5f01e73f24f0be40096dcc5b1f?rik=0EQRVNLi2I2mWQ&riu=http%3a%2f%2fgetdrawings.com%2ffree-icon%2fjarvis-icon-pack-62.png&ehk=%2bgNVpZKqlUz4qfaqkz5%2blJconO7a4U%2bU%2ffMVpsI2quM%3d&risl=&pid=ImgRaw&r=0" alt="Photoshop" width="40" height="40"/>
-         <img src="https://th.bing.com/th/id/OIP.MtFSyZgNAuhdv5L8tgVhKwAAAA?w=100&h=100&rs=1&pid=ImgDetMain" alt="Photoshop" width="40" height="40"/>
-   </p>
 
 - 🎮 Interests:
     - Web Development,
