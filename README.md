@@ -6,7 +6,7 @@ I'm a passionate developer with a love for coding, gaming, and entertainment. My
 skills in programming to build innovative solutions and contribute to exciting projects.
 
 💻 **Languages & Technologies**:
-   <p align="center">
+   <p>
   <img src="https://icons.iconarchive.com/icons/tatice/cristal-intense/256/Java-icon.png" alt="Java" width="40" height="40"/>
   <img src="https://logosdownload.com/logo/javascript-logo-big.png" alt="JavaScript" width="40"height="40"/>
   <img src="https://pngimg.com/uploads/php/php_PNG18.png" alt="PHP" width="40" height="40"/>
