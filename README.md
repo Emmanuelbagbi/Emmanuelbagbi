@@ -30,7 +30,6 @@ skills in programming to build innovative solutions and contribute to exciting p
    <img src="https://bourhaouta.gallerycdn.vsassets.io/extensions/bourhaouta/tailwindshades/0.0.5/1592520164095/Microsoft.VisualStudio.Services.Icons.Default" alt="Photoshop" width="40" height="40"/>
 <img src="https://seeklogo.com/images/M/material-ui-logo-5BDCB9BA8F-seeklogo.com.png" alt="Photoshop" width="40" height="40"/>
 <img src="https://reddig.consulting/spring-boot.png" alt="Photoshop" width="40" height="40"/>
-<img src="https://w7.pngwing.com/pngs/87/586/png-transparent-next-js-hd-logo.png" alt="Photoshop" width="40" height="40"/>
 </p>
 
 🤝 Let's Connect:
@@ -39,7 +38,7 @@ skills in programming to build innovative solutions and contribute to exciting p
          <img src="https://th.bing.com/th/id/R.e8815a5f01e73f24f0be40096dcc5b1f?rik=0EQRVNLi2I2mWQ&riu=http%3a%2f%2fgetdrawings.com%2ffree-icon%2fjarvis-icon-pack-62.png&ehk=%2bgNVpZKqlUz4qfaqkz5%2blJconO7a4U%2bU%2ffMVpsI2quM%3d&risl=&pid=ImgRaw&r=0" alt="Photoshop" width="35" height="35"/>
  <img src="https://www.freepnglogos.com/uploads/twitter-x-logo-png/twitter-x-logo-png-9.png" alt="Photoshop" width="35" height="35"/> 
    </p>
-
+<br/>
 - 🌱 Currently Learning:
   - WebAssembly,
   - Next.js.
