@@ -49,7 +49,7 @@ skills in programming to build innovative solutions and contribute to exciting p
 - Version Control:
   <p>
      <img src="https://logodix.com/logo/2083148.png" alt="Photoshop" width="40" height="40"/>
-     <img src="https://i.ytimg.com/vi/soYrpbAENNk/hqdefault.jpg" alt="Photoshop" width="40" height="40"/>
+     <img src="https://p7.hiclipart.com/preview/743/345/230/bash-git-computer-icons-installation-command-line-interface-github.jpg" alt="Photoshop" width="40" height="40"/>
   </p>
    - Git, GitHub, GitLab
 
