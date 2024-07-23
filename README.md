@@ -5,7 +5,7 @@
 I'm a passionate developer with a love for coding, gaming, and entertainment. My goal is to leverage my 
 skills in programming to build innovative solutions and contribute to exciting projects.
 
-💻 **Languages & Technologies**:
+💻 ##Languages & Technologies##:
    <p display="flex"gap="3%">
   <img src="https://icons.iconarchive.com/icons/tatice/cristal-intense/256/Java-icon.png" alt="Java" width="40" height="40"/>
   <img src="https://logosdownload.com/logo/javascript-logo-big.png" alt="JavaScript" width="40"height="40"/>
@@ -33,20 +33,20 @@ skills in programming to build innovative solutions and contribute to exciting p
 <img src="https://logodix.com/logo/1960605.png" alt="Photoshop" width="40" height="40"/>
 </p>
     
-- 🌱 *Currently Learning*:
+- 🌱 ##Currently Learning##:
   - WebAssembly,
   - Next.js.
 
-- 🎮 *Interests*:
+- 🎮 ##Interests##:
     - Web Development,
     - Open Source,
     - Game Development.
   
-- 💼 *Experience*: 
+- 💼 ##Experience##: 
   - Software Engineer at TechCorp
   - Contributor to OpenAI GPT-3
     
-- 🌐 **Website**: [Emmy.dev](www.linkedin.com/in/emmanuel-bagbi-650233306)
-- 📫 **Contact**: [Emmnanuelbagbi@gmail.com](mailto:Emmanuelbagbi4@gmail.com)
+- 🌐 ##Website##: [Emmy.dev](www.linkedin.com/in/emmanuel-bagbi-650233306)
+- 📫 ##Contact##: [Emmnanuelbagbi@gmail.com](mailto:Emmanuelbagbi4@gmail.com)
 
 Let's connect and build something amazing together!
