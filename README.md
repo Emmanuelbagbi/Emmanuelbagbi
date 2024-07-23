@@ -65,5 +65,5 @@ skills in programming to build innovative solutions and contribute to exciting p
 
 ---
 
-"Code is like humor. When you have to explain it, it’s bad." - Cory House <br/>
+Code is like humor. When you have to explain it, it’s bad. - Cory House <br/>
 Let's connect and build something amazing together!
