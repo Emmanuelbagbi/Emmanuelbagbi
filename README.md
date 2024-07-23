@@ -50,10 +50,18 @@ skills in programming to build innovative solutions and contribute to exciting p
   <p>
      <img src="https://logodix.com/logo/2083148.png" alt="Photoshop" width="40" height="40"/>
      <img src="https://i2.wp.com/obscureproblemsandgotchas.com/wp-content/uploads/2018/09/Git-bash.png?fit=512%2C512&ssl=1" alt="Photoshop" width="40" height="40"/>
+      <img src="https://seeklogo.com/images/G/gitlab-logo-FAA48EFD02-seeklogo.com.png" alt="Photoshop" width="40" height="40"/>
   </p>
    - Git, GitHub, GitLab
 
 - 🌐 ##Website##: [Emmy.dev](www.linkedin.com/in/emmanuel-bagbi-650233306)
 - 📫 ##Contact##: [Emmnanuelbagbi@gmail.com](mailto:Emmanuelbagbi4@gmail.com)
 
+🤝 **Let's Connect:**
+- [Your Twitter](your-twitter-url)
+- [Your Blog](your-blog-url)
+
+---
+
+"Code is like humor. When you have to explain it, it’s bad." - Cory House
 Let's connect and build something amazing together!
