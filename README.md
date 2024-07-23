@@ -21,7 +21,7 @@ skills in programming to build innovative solutions and contribute to exciting p
   <img src="URL_TO_ORACLE_ICON" alt="Oracle" width="40" height="40"/>
   <img src="URL_TO_MONGODB_ICON" alt="MongoDB" width="40" height="40"/>
   <img src="https://pngimg.com/uploads/mysql/mysql_PNG23.png" alt="MySQL" width="40" height="40"/>
-  <img src="URL_TO_POSTGRESQL_ICON" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://th.bing.com/th/id/R.2662d7a0e96d8bdca83b53586643977e?rik=9twXGUva9h2Y2w&pid=ImgRaw&r=0" alt="PostgreSQL" width="40" height="40"/>
   <img src="URL_TO_FIREBASE_ICON" alt="Firebase" width="40" height="40"/>
   <img src="URL_TO_HEROKU_ICON" alt="Heroku" width="40" height="40"/>
   <img src="URL_TO_DJANGO_ICON" alt="Django" width="40" height="40"/>
