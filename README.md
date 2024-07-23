@@ -45,7 +45,13 @@ skills in programming to build innovative solutions and contribute to exciting p
 - 💼 Experience: 
   - Software Engineer at TechCorp
   - Contributor to OpenAI GPT-3
-    
+  
+- Version Control:
+  <p>
+     <img src="https://logodix.com/logo/1960605.png" alt="Photoshop" width="40" height="40"/>
+  </p>
+   - Git, GitHub, GitLab
+
 - 🌐 ##Website##: [Emmy.dev](www.linkedin.com/in/emmanuel-bagbi-650233306)
 - 📫 ##Contact##: [Emmnanuelbagbi@gmail.com](mailto:Emmanuelbagbi4@gmail.com)
 
