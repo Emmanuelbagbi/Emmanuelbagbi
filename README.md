@@ -37,7 +37,7 @@ skills in programming to build innovative solutions and contribute to exciting p
    <p>
         <img src="https://logodix.com/logo/2083148.png" alt="Photoshop" width="35" height="35"/> 
          <img src="https://th.bing.com/th/id/R.e8815a5f01e73f24f0be40096dcc5b1f?rik=0EQRVNLi2I2mWQ&riu=http%3a%2f%2fgetdrawings.com%2ffree-icon%2fjarvis-icon-pack-62.png&ehk=%2bgNVpZKqlUz4qfaqkz5%2blJconO7a4U%2bU%2ffMVpsI2quM%3d&risl=&pid=ImgRaw&r=0" alt="Photoshop" width="35" height="35"/>
- <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNqmvAqxArGNLz96KqMLVCQPBy6GrBoMUl7VGMUqeImCzMCWZsXblnZMNAMR6-WLlRX6nXyj0B0FIBe4emgr4IMJs_Y7vAb6BvxoTTaTj6xli8xt9cK9ctnOQOorMFMJso5wXjHQoPu_VGS2s_uYj2j_EZtMe-Ti9X_uTkb3JEfbSTJuHxvw8YlTpQEhFO/s1080/FB78FF64-0DC5-464B-B3F3-5DD3DB917E3D.webp" alt="Photoshop" width="35" height="35"/> 
+ <img src="https://www.freepnglogos.com/uploads/twitter-x-logo-png/twitter-x-logo-png-9.png" alt="Photoshop" width="35" height="35"/> 
    </p>
 
 - 🌱 Currently Learning:
