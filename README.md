@@ -23,7 +23,7 @@ skills in programming to build innovative solutions and contribute to exciting p
   <img src="https://pngimg.com/uploads/mysql/mysql_PNG23.png" alt="MySQL" width="40" height="40"/>
   <img src="https://th.bing.com/th/id/R.2662d7a0e96d8bdca83b53586643977e?rik=9twXGUva9h2Y2w&pid=ImgRaw&r=0" alt="PostgreSQL" width="40" height="40"/>
   <img src="https://th.bing.com/th/id/R.c521e7e67222276a6860665a46813cc6?rik=AoUIOAvVTiB1cQ&riu=http%3a%2f%2fpluspng.com%2fimg-png%2ffirebase-logo-png-firebase-logo-png-transparent-amp-svg-vector-pluspng-2400x3291.png&ehk=YpYeUgKU5BtUZmTIpsZiQ5pFGAOc5w0Xm5klm2orTIg%3d&risl=&pid=ImgRaw&r=0" alt="Firebase" width="40" height="40"/>
-  <img src="URL_TO_HEROKU_ICON" alt="Heroku" width="40" height="40"/>
+  <img src="https://brandslogos.com/wp-content/uploads/images/large/angular-icon-logo.png" alt="Heroku" width="40" height="40"/>
   <img src="https://th.bing.com/th/id/R.fb73ba1b0bb03b3de706ff788395f453?rik=zi5WLd0kipiefA&pid=ImgRaw&r=0" alt="Django" width="40" height="40"/>
   <img src="URL_TO_PS_ICON" alt="Photoshop" width="40" height="40"/>
 </p>
