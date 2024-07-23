@@ -41,20 +41,20 @@ skills in programming to build innovative solutions and contribute to exciting p
  <img src="https://www.freepnglogos.com/uploads/twitter-x-logo-png/twitter-x-logo-png-9.png" alt="Photoshop" width="35" height="35"/> 
    </p>
 
-<br/>
+
 - 🌱 Currently Learning:
   - WebAssembly,
   - Next.js.
-<br/>
+
 - 🎮 Interests:
     - Web Development,
     - Open Source,
     - Game Development.
- <br/> 
+
 - 💼 Experience: 
   - Software Engineer at TechCorp
   - Contributor to OpenAI GPT-3
-  <br/>
+
 - Version Control:
   <p>
      <img src="https://logodix.com/logo/2083148.png" alt="Photoshop" width="40" height="40"/>
