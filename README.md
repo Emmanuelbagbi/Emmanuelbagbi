@@ -16,7 +16,7 @@ skills in programming to build innovative solutions and contribute to exciting p
   <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-1024.png" alt="React" width="40" height="40"/>
   <img src="https://icons.iconarchive.com/icons/martz90/hex/256/css-3-icon.png" alt="CSS3" width="40" height="40"/>
   <img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/bootstrap-9305875-7694074.png?f=webp&w=512" alt="Bootstrap" width="40" height="40"/>
-  <img src="https://www.pngwing.com/en/free-png-amxds" alt="Node.js" width="40" height="40"/>
+  <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="Node.js" width="40" height="40"/>
   <img src="URL_TO_EXPRESS_ICON" alt="Express" width="40" height="40"/>
   <img src="URL_TO_ORACLE_ICON" alt="Oracle" width="40" height="40"/>
   <img src="URL_TO_MONGODB_ICON" alt="MongoDB" width="40" height="40"/>
