@@ -5,7 +5,7 @@
 I'm a passionate developer with a love for coding, gaming, and entertainment. My goal is to leverage my 
 skills in programming to build innovative solutions and contribute to exciting projects.
 
-💻### Skills
+## Skills💻
 
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
