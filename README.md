@@ -5,33 +5,31 @@
 I'm a passionate developer with a love for coding, gaming, and entertainment. My goal is to leverage my 
 skills in programming to build innovative solutions and contribute to exciting projects.
 
-💻 Skills:
-   <p display="flex"gap="3%">
-  <img src="https://icons.iconarchive.com/icons/tatice/cristal-intense/256/Java-icon.png" alt="Java" width="40" height="40"/>
-  <img src="https://logosdownload.com/logo/javascript-logo-big.png" alt="JavaScript" width="40"height="40"/>
-  <img src="https://pngimg.com/uploads/php/php_PNG18.png" alt="PHP" width="40" height="40"/>
-  <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/python-icon.png" alt="Python" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/768px-Typescript_logo_2020.svg.png" alt="TypeScript" width="40" height="40"/>
-  <img src="https://icons.iconarchive.com/icons/martz90/hex/256/html-5-icon.png" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-1024.png" alt="React" width="40" height="40"/>
-  <img src="https://icons.iconarchive.com/icons/martz90/hex/256/css-3-icon.png" alt="CSS3" width="40" height="40"/>
-  <img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/bootstrap-9305875-7694074.png?f=webp&w=512" alt="Bootstrap" width="40" height="40"/>
-  <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="Node.js" width="40" height="40"/>
-  <img src="https://icon-library.com/images/express-icon/express-icon-16.jpg" alt="Express" width="40" height="40"/>
-  <img src="https://www.pngmart.com/files/23/Oracle-Logo-PNG-Image.png" alt="Oracle" width="40" height="40"/>
-  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_logo_icon_146424.png" alt="MongoDB" width="40" height="40"/>
-  <img src="https://pngimg.com/uploads/mysql/mysql_PNG23.png" alt="MySQL" width="40" height="40"/>
-  <img src="https://th.bing.com/th/id/R.2662d7a0e96d8bdca83b53586643977e?rik=9twXGUva9h2Y2w&pid=ImgRaw&r=0" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://th.bing.com/th/id/R.c521e7e67222276a6860665a46813cc6?rik=AoUIOAvVTiB1cQ&riu=http%3a%2f%2fpluspng.com%2fimg-png%2ffirebase-logo-png-firebase-logo-png-transparent-amp-svg-vector-pluspng-2400x3291.png&ehk=YpYeUgKU5BtUZmTIpsZiQ5pFGAOc5w0Xm5klm2orTIg%3d&risl=&pid=ImgRaw&r=0" alt="Firebase" width="40" height="40"/>
-  <img src="https://brandslogos.com/wp-content/uploads/images/large/angular-icon-logo.png" alt="Heroku" width="40" height="40"/>
-  <img src="https://th.bing.com/th/id/R.fb73ba1b0bb03b3de706ff788395f453?rik=zi5WLd0kipiefA&pid=ImgRaw&r=0" alt="Django" width="40" height="40"/>
-  <img src="https://flexdash.github.io/docs/developing-widgets/vue-logo.png" alt="Photoshop" width="40" height="40"/>
-   <img src="https://th.bing.com/th/id/R.5ad02c6a761fcadf0ec392b9fed1ef0f?rik=Dwv9grzztYGjGA&pid=ImgRaw&r=0" alt="Photoshop" width="40" height="40"/>
-   <img src="https://bourhaouta.gallerycdn.vsassets.io/extensions/bourhaouta/tailwindshades/0.0.5/1592520164095/Microsoft.VisualStudio.Services.Icons.Default" alt="Photoshop" width="40" height="40"/>
-<img src="https://seeklogo.com/images/M/material-ui-logo-5BDCB9BA8F-seeklogo.com.png" alt="Photoshop" width="40" height="40"/>
-<img src="https://reddig.consulting/spring-boot.png" alt="Photoshop" width="40" height="40"/>
-</p>
+💻### Skills
 
+<p align="left">
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
+<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a>
+<a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
+<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" width="36" height="36" alt="Django" /></a>
+<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" width="36" height="36" alt="Photoshop" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+</p>
 <br/>
 
 🤝 Let's Connect:
