@@ -53,7 +53,7 @@ skills in programming to build innovative solutions and contribute to exciting p
   - Software Engineer at TechCorp
   - Contributor to OpenAI GPT-3
 
-  - Version Control:
+  # Version Control:
   <p>
      <img src="https://logodix.com/logo/2083148.png" alt="Photoshop" width="40" height="40"/>
      <img src="https://i2.wp.com/obscureproblemsandgotchas.com/wp-content/uploads/2018/09/Git-bash.png?fit=512%2C512&ssl=1" alt="Photoshop" width="40" height="40"/>
