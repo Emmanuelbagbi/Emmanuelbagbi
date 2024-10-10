@@ -32,7 +32,7 @@ skills in programming to build innovative solutions and contribute to exciting p
 </p>
 <br/>
 
--🤝 Let's Connect:
+- 🤝 Let's Connect:
    <p>
         <img src="https://logodix.com/logo/2083148.png" alt="Photoshop" width="35" height="35"/> 
          <img src="https://th.bing.com/th/id/R.e8815a5f01e73f24f0be40096dcc5b1f?rik=0EQRVNLi2I2mWQ&riu=http%3a%2f%2fgetdrawings.com%2ffree-icon%2fjarvis-icon-pack-62.png&ehk=%2bgNVpZKqlUz4qfaqkz5%2blJconO7a4U%2bU%2ffMVpsI2quM%3d&risl=&pid=ImgRaw&r=0" alt="Photoshop" width="35" height="35"/>
@@ -44,7 +44,7 @@ skills in programming to build innovative solutions and contribute to exciting p
   - WebAssembly,
   - Next.js.
 
-  - 🎮 Interests:
+  -🎮 Interests:
     - Web Development,
     - Open Source,
     - Game Development.
