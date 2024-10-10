@@ -44,7 +44,7 @@ skills in programming to build innovative solutions and contribute to exciting p
   - WebAssembly,
   - Next.js.
 
-  -🎮 Interests:
+  - 🎮 Interests:
     - Web Development,
     - Open Source,
     - Game Development.
