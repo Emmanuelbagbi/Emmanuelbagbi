@@ -44,7 +44,7 @@ skills in programming to build innovative solutions and contribute to exciting p
   - WebAssembly,
   - Next.js.
 
-  ##🎮 Interests:
+  ## 🎮 Interests:
     - Web Development,
     - Open Source,
     - Game Development.
@@ -59,7 +59,7 @@ skills in programming to build innovative solutions and contribute to exciting p
      <img src="https://i2.wp.com/obscureproblemsandgotchas.com/wp-content/uploads/2018/09/Git-bash.png?fit=512%2C512&ssl=1" alt="Photoshop" width="40" height="40"/>
       <img src="https://th.bing.com/th/id/R.54b1ba407fc5aab1729180b6b176b012?rik=VWuWFtc%2btEW5BQ&riu=http%3a%2f%2fassets.stickpng.com%2fimages%2f5847f997cef1014c0b5e48c1.png&ehk=BdqpUDTkW0rs7fCDCipiABgxEXkdQ6QAl3f%2f1S2YwI4%3d&risl=&pid=ImgRaw&r=0" alt="Photoshop" width="40" height="40"/>
   </p>
-- 🌐 Website: [Emmy.dev](www.linkedin.com/in/emmanuel-bagbi-650233306) 
+<!-- - 🌐 Website: [Emmy.dev](www.linkedin.com/in/emmanuel-bagbi-650233306)  -->
 - 📫 Contact: [Emmnanuelbagbi@gmail.com](mailto:Emmanuelbagbi4@gmail.com)
 
 ---
